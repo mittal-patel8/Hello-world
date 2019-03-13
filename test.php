@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -9,6 +8,8 @@ echo "test";
 echo "how are you";
 echo "I am fine";
 echo "let's meet up";
+echo "urvi came";
+echo "hello";
 ?>
 
 </body>
